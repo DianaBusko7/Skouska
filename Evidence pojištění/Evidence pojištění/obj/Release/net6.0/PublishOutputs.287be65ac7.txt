@@ -1,0 +1,5 @@
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Release\net6.0\publish\Evidence pojištění.exe
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Release\net6.0\publish\Evidence pojištění.dll
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Release\net6.0\publish\Evidence pojištění.deps.json
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Release\net6.0\publish\Evidence pojištění.runtimeconfig.json
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Release\net6.0\publish\Evidence pojištění.pdb

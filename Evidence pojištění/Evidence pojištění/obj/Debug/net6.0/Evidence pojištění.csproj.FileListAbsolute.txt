@@ -1,0 +1,15 @@
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Debug\net6.0\Evidence pojištění.exe
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Debug\net6.0\Evidence pojištění.deps.json
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Debug\net6.0\Evidence pojištění.runtimeconfig.json
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Debug\net6.0\Evidence pojištění.dll
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\bin\Debug\net6.0\Evidence pojištění.pdb
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.csproj.AssemblyReference.cache
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.AssemblyInfoInputs.cache
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.AssemblyInfo.cs
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.csproj.CoreCompileInputs.cache
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.dll
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\refint\Evidence pojištění.dll
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.pdb
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\Evidence pojištění.genruntimeconfig.cache
+C:\Users\diana\Dropbox\C# learning\PROJEKT\Projekt-Skouška\Evidence pojištění\Evidence pojištění\obj\Debug\net6.0\ref\Evidence pojištění.dll
